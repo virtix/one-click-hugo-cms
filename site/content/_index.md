@@ -7,15 +7,13 @@ blurb:
   text: >-
     Are you tired of the old and tired red and blue politics? Me, too! And I can
     do better!  I'm starting a brand new government right here, right now. All I
-    need is a nap. After that, a cup of coffee. And then I'll change the world.
-    But I need your help.
+    need is a nap. After that, a cup of coffee. And then after a quick pit-stop,
+    Im fully ready change the world! But I need your help. Read on.
 intro:
-  heading: What can you offer?
+  heading: Ask what you can do for your country!
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Quoting some guy--I think he was a president or something--I'm asking for
+    you to step up and help. Not for yourself, but for the greater good. 
 products:
   - image: img/illustrations-coffee.svg
     text: >-
