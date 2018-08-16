@@ -10,10 +10,8 @@ blurb:
     need is a nap. After that, a cup of coffee. And then after a quick pit-stop,
     I'm ready change the world! But I need your help, so, read on.
 intro:
-  heading: What's in it for you?
-  text: >-
-    "Ask what you can do for your country!" Quoting some guy--I think he was a
-    president or something--think about about others for change.  
+  heading: What does this new world look like?
+  text: '... '
 products:
   - image: img/illustrations-coffee.svg
     text: >-
