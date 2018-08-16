@@ -5,7 +5,7 @@ image: /img/nixon_elvis_december_21_1970_meeting_cropped.jpeg
 blurb:
   heading: Why?
   text: >-
-    Are you tired of the old and tired red and blue politics? Me, too! And I can
+    Are you fed up with the exhausting Red and Blue politics? Me, too! And I can
     do better!  I'm starting a brand new government right here, right now. All I
     need is a nap. After that, a cup of coffee. And then after a quick pit-stop,
     I'm ready change the world! But I need your help, so, read on.
