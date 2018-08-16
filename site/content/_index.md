@@ -1,7 +1,7 @@
 ---
-title: My name is Dave
+title: My name is   Dave .
 subtitle: I'm starting a new government.
-image: /img/home-jumbotron.jpg
+image: /img/nixon_elvis_december_21_1970_meeting_cropped.jpg
 blurb:
   heading: Why?
   text: >-
