@@ -1,6 +1,6 @@
 ---
 title: My name is   Dave .
-subtitle: I'm starting a new government.
+subtitle: I'm leaving government to start up a new one.
 image: /img/nixon_elvis_december_21_1970_meeting_cropped.jpeg
 blurb:
   heading: Why?
