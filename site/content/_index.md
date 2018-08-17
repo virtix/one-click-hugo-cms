@@ -13,8 +13,7 @@ intro:
   heading: What does this new world look like?
   text: '... '
 products:
-  - image: >-
-      /img/kisspng-raised-fist-symbol-thumb-signal-communism-communism-5ac493311f9428.8496086615228321771294.jpg
+  - image: /img/fist.png
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
