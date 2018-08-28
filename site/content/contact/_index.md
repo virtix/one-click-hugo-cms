@@ -1,19 +1,20 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/spiro_agnew_hippie.jpg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Where?
+    text: "1600 Pennsylvania Avenue, Washington D.C. 20050.
+    In front of the gates next to the screaming woman in the purple turban."
+
+  - heading: When?
+    text: "Tuesdays or Thursdays after 11:00AM to Noon. I'm busy drinking at other times."
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I’d love to get in touch with you and hear about your problems and
+life challenges. Look at what _I've_ accomplished!  I know exactly how to fix you and it won't break the bank.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How to get in touch</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can  use the form below for any inquiries about coaching
+availability and scheduling a 1-on-1 face-to-face session
+with me. Don’t be shy, drop us a line!

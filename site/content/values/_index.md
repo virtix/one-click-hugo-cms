@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: My Manifesto
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
