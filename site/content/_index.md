@@ -6,8 +6,10 @@ blurb:
   heading: Why?
   text: >-
     Are you fed up with the exhausting Red and Blue politics? Me, too! And I can
-    do better!  I'm starting a brand New Alternative American Government (NAAG) right here, right now. All I
-    need is a nap. After that, a cup of coffee. And then when I get my car fixed, I'll be ready change the world! But I need your help, so, read on.
+    do better!  I'm starting a brand New Alternative American Government (NAAG)
+    right here, right now. All I need is a nap. After that, a cup of coffee. And
+    then when I get my car fixed, I'll be ready change the world! But I need
+    your help, so, read on.
 intro:
   heading: What does this new world look like?
   text: '... '
@@ -26,7 +28,10 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: A government should be based on core values.  I've written at least 200 or 300 words on the subject, which qualifies me as an expert. Read my Manifesto and see for yourself!
+  heading: My Manifesto
+  text: >-
+    A government should be based on core values.  I've written at least 200 or
+    300 words on the subject, which qualifies me as an expert. Read my Manifesto
+    and see for yourself!
 ---
 
