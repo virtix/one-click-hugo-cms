@@ -18,7 +18,7 @@ values:
   - heading: Customer collaboration over contract negotiation
     imageUrl: /img/This-Is-Why-Aliens-Wont-Talk-To-Us.jpg
     text: >
-      I have no idea what this means, but someone paid me to put it here.
+      I have no idea what this means, but someone paid me to put it here. Whatever.
  
   - heading: And Beer.
     imageUrl: /img/pabst.jpg
