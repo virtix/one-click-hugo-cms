@@ -7,8 +7,7 @@ blurb:
   text: >-
     Are you fed up with the exhausting Red and Blue politics? Me, too! And I can
     do better!  I'm starting a brand New Alternative American Government (NAAG) right here, right now. All I
-    need is a nap. After that, a cup of coffee. And then after a quick pit-stop, and getting my car fixed,
-    I'm ready change the world! But I need your help, so, read on.
+    need is a nap. After that, a cup of coffee. And then when I get my car fixed, I'll be ready change the world! But I need your help, so, read on.
 intro:
   heading: What does this new world look like?
   text: '... '

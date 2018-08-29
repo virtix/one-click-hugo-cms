@@ -15,6 +15,6 @@ life challenges. Look at what _I've_ accomplished!  I know exactly how to fix yo
 
 <h3 class="f4 b lh-title mb2">How to get in touch</h3>
 
-You can  use the form below for any inquiries about coaching
+You can meet me at random times at the Whitehouse or use the form below for any inquiries about coaching
 availability and scheduling a 1-on-1 face-to-face session
 with me. Don’t be shy, drop us a line!
