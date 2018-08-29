@@ -8,4 +8,14 @@ description: >-
   governing it's people.
 image: /img/cq5dam.web.1440.660.jpeg
 ---
-What is Agile?
+The User Story
+
+The Backlog
+
+Grooming the Backlog
+
+Measuring level of effort (LOE) in Story Points
+
+Daily Standups
+
+Deploying a working government
