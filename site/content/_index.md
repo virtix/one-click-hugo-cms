@@ -12,12 +12,10 @@ blurb:
     your help, so, read on.
 intro:
   heading: What will this new world look like?
-  text: ""
-
-products:      
+  text: ''
+products:
   - image: /img/giphy-wheelchair-riot.gif
-    text: >-
-      
+    text: Geriatric-friendly protests.
 values:
   heading: My Manifesto
   text: >-
