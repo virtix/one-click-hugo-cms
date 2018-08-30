@@ -6,10 +6,8 @@ description: >-
   poor spellars.
 image: /img/protest-sign.jpg
 ---
-Let's not waste a bunch of time with a bunch of front-matter crap and get right to it with simple DO's and DONT's.
+## Let's not waste a bunch of time with a bunch of front-matter crap and get right to it with  DONT's:
 
-
-
-DO:
-
-DON'T:
+* **Use pencil**. No one can read it
+* **Plan**: Just write something simple (see my Manifesto)
+* **Tell the truth**: We only get attention when we totally exaggerate
