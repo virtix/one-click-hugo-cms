@@ -8,14 +8,20 @@ blurb:
     Are you fed up with the exhausting Red and Blue politics? Me, too! And I can
     do better!  I'm starting a brand New Alternative American Government (NAAG)
     right here, right now. All I need is a nap. After that, a cup of coffee. And
-    then when I get my car fixed, I'll be ready change the world! But I need
-    your help, so, read on.
+    when I get my car fixed, I'll be ready change the world! But I need your
+    help, so, read on.
 intro:
   heading: What will this new world look like?
-  text: ''
+  text: 'With your help, I promise to make the following commonplace realities:'
 products:
   - image: /img/giphy-wheelchair-riot.gif
-    text: Geriatric-friendly protests.
+    text: ' Geriatric-friendly protests'
+  - image: /img/annoying-people-annoying-people-everywhere-eme-com-27139601.png
+    text: Peace between annoying people and cool people
+  - image: /img/meme_editwiki.png
+    text: 'The new constitution will be one Wiki page! '
+  - image: /img/yeah-forgot.jpg
+    text: 'I had a couple of other ideas, but I forgot to write them down. Whatever. '
 values:
   heading: My Manifesto
   text: >-
