@@ -6,7 +6,7 @@ description: >-
   the dreadfully long and hellish bureaucratic process that is the standard
   today. Here, I present my iterative method for building a government and
   governing it's people.
-image: /img/cq5dam.web.1440.660.jpeg
+image: /img/what-if-i-told-you-devops-and-agile-are-not-the-same.jpg
 ---
 The User Story
 
