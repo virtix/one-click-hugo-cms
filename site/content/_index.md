@@ -19,7 +19,7 @@ products:
   - image: /img/annoying-people-annoying-people-everywhere-eme-com-27139601.png
     text: Peace between annoying people and cool people
   - image: /img/meme_editwiki.png
-    text: 'The new constitution will be one Wiki page! '
+    text: 'The new constitution will be a single Wiki page. That''s it! '
   - image: /img/yeah-forgot.jpg
     text: 'I had a couple of other ideas, but I forgot to write them down. Whatever. '
 values:
