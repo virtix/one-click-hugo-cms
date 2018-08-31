@@ -16,6 +16,6 @@ image: /img/what-if-i-told-you-devops-and-agile-are-not-the-same.jpg
 
 **Measuring level of effort (LOE) in Story Points**: For realz? Just do it and shut up.
 
-**Daily Standups**: Only when I feel like it
+**Daily Standups**: Only when I feel like it.
 
 **Deploying a working government**: Release once and we're done.
