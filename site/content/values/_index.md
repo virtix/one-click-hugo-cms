@@ -22,6 +22,6 @@ values:
       Whatever.
   - heading: And Beer
     imageUrl: /img/pabst.jpg
-    text: The basis of a new econmy
+    text: The basis of a new economy
 ---
 
