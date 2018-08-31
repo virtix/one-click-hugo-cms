@@ -1,6 +1,6 @@
 ---
 title: How I use Agile to build a new government
-date: 2018-08-28T16:42:43.700Z
+date: 2018-08-30T16:42:43.700Z
 description: >-
   Building government has typically been by violent revolution, waterfall, or
   the dreadfully long and hellish bureaucratic process that is the standard
