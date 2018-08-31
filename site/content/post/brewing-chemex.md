@@ -1,6 +1,6 @@
 ---
 title: A beginners’ guide to painting protest signs
-date: 2017-01-04T15:04:10.000Z
+date: 2018-08-29T14:04:10.000Z
 description: >-
   Simple guidelines to make your protest signs stand out in the sea of angry
   poor spellars.
