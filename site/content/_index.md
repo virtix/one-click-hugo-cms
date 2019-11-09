@@ -21,7 +21,7 @@ products:
   - image: /img/meme_editwiki.png
     text: 'The new constitution will be a single Wiki page. That''s it! '
   - image: /img/yeah-forgot.jpg
-    text: 'I had a couple of other ideas, but I forgot to write them down. Whatever. '
+    text: 'I had a couple of other ideas, but I forgot to write them down. '
 values:
   heading: My Manifesto
   text: >-
