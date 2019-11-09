@@ -5,7 +5,7 @@ description: >-
   Building government has typically been by violent revolution, waterfall, or
   the dreadfully long and hellish bureaucratic process that is the standard
   today. Here, I present my iterative method for building a government and
-  governing it's people.
+  governing its people.
 image: /img/what-if-i-told-you-devops-and-agile-are-not-the-same.jpg
 ---
 ## My K.I.S.S. approach to Agile:
